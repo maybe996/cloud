@@ -26,3 +26,7 @@ echo "export AWS_SECRET_ACCESS_KEY=XXXXXXX
 export PATH=$PATH:/bin:/usr/bin:/usr/local/bin
 
 source ~./bashrc
+
+5. terraform 확인
+파일 생성후 
+tr init, tr plan, tr apply 
